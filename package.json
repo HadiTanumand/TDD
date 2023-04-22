@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "start": "node ./Reverse/reverseString.js",
     "liveTest": "jest --watchAll",
     "fullTest": "jest --coverage",
     "test:watch": "jest --watch",
